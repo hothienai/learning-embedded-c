@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Embedded C Programming documentation!
+Welcome to Ho Thien Ai's documentation!
 =================================================
 
-Hello and welcome to the Embedded C Programming documentation!
+Hello! I'm Ai, a random embedded software engineer who loves to learn and share the good things. 
 
-I'm Ai, a random embedded software engineer who loves to learn and share the good things. This documentation is used to document what I have learned about Embedded C programming, including basics of `C language`, `Embedded C concepts`, `State Machines`, and `Development Boards`. I hope that you find this resource helpful in your journey to mastering Embedded C programming. 
+This documentation is used to document what I have learned about Embedded C programming, including basics of ``C language``, ``Embedded C concepts``, ``State Machines``, and ``All other things``. I hope that you find this resource helpful in your journey to mastering Embedded C programming. 
 
 Thank you for visiting!
 
@@ -16,28 +16,28 @@ Thank you for visiting!
    :maxdepth: 2
    :caption: C Programming Language
 
-   C Programming Language/introduction
-   C Programming Language/operators
-   C Programming Language/datatypes
-   C Programming Language/variables
-   C Programming Language/static-variables
-   C Programming Language/volatile-variables
-   C Programming Language/constants
+   c/introduction
+   c/operators
+   c/data-types
+   c/variables
+   c/static-variables
+   c/volatile-variables
+   c/constants
 
 .. toctree::
    :maxdepth: 2
    :caption: Embedded C
 
-   Embedded C/introduction
+   embedded-c/introduction
 
 .. toctree::
    :maxdepth: 2
    :caption: State Machines
 
-   State Machines/introduction
+   state-machines/introduction
 
 .. toctree::
    :maxdepth: 2
    :caption: Development Boards
 
-   Development Boards/introduction
+   development-boards/introduction

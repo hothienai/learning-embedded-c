@@ -15,7 +15,7 @@ persist throughout the entire program execution and are initialized only once.
 - Can limit scope to file or function level
 
 What is a Static Variable?
--------------------------
+--------------------------
 
 A static variable is a variable that:
 
@@ -199,7 +199,7 @@ Comparison with Non-Static
    static int file_var = 100;   // Only accessible in this file
 
 Use Cases for Static Variables
--------------------------
+------------------------------
 
 1. Function Call Counters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -327,7 +327,7 @@ Use Cases for Static Variables
    }
 
 Static vs Regular Variables
--------------------------
+---------------------------
 
 Comparison Table
 ~~~~~~~~~~~~~~~~
